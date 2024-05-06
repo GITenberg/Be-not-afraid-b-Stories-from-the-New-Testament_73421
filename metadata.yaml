@@ -1,0 +1,26 @@
+_repo: Be-not-afraid-b-Stories-from-the-New-Testament_73421
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Shaw, Catharine
+    gutenberg_agent_id: '38947'
+    url: http://www.gutenberg.org/2009/agents/38947
+description: ''
+gutenberg_issued: '2024-04-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73421'
+language: en
+pgterms:marc905: 20240417063403shaw
+pgterms:marc906: '1928'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bJohn F. Shaw & Co., Ltd., $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible stories, English -- New Testament -- Juvenile literature'
+- !lcc 'BS'
+- GITenberg
+title: 'Be not afraid : $b Stories from the New Testament'
+url: http://www.gutenberg.org/ebooks/73421
