@@ -1,11 +1,16 @@
 _repo: Be-not-afraid-b-Stories-from-the-New-Testament_73421
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Shaw, Catharine
     gutenberg_agent_id: '38947'
     url: http://www.gutenberg.org/2009/agents/38947
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73421#Be-not-afraid-b-Stories-from-the-New-Testament
 gutenberg_issued: '2024-04-18'
 gutenberg_type: Text
 identifiers:
